@@ -19,6 +19,9 @@ The students with a percentage around 65-75 are much likely to get placed.
 Marketing and finance (Mkt&Fin) students are getting much higher salaries than marketing and
 HR (Mkt&HR)
 
+From the pie chart above we can infer that number of students of Commerce and management is
+around 67.4% , SciTech is 27.4% and 5.1% belongs to others
+
 From the given dataset , its properties and various information regarding the same is inferred. It
 has got 215 rows and 15 columns. The null values are handled.The factors influencing the
 placement and salary could be visualized. Some factors are found to be crucial but there are
