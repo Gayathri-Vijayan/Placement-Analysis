@@ -13,7 +13,11 @@ Most of the cadets got a salary package around 3 lakhs
 
 While comparing the stream of higher secondary education and the salary science students are
 get much salary while arts students tends to get much low salary
-Marketing
+
+The students with a percentage around 65-75 are much likely to get placed.  
+
+Marketing and finance (Mkt&Fin) students are getting much higher salaries than marketing and
+HR (Mkt&HR)
 
 From the given dataset , its properties and various information regarding the same is inferred. It
 has got 215 rows and 15 columns. The null values are handled.The factors influencing the
