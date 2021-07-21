@@ -26,5 +26,6 @@ From the given dataset , its properties and various information regarding the sa
 has got 215 rows and 15 columns. The null values are handled.The factors influencing the
 placement and salary could be visualized. Some factors are found to be crucial but there are
 some factors which don't seem to be much significant. For the classification purpose Random
-forest classifier was chosen which is much better than a single decision tree . Hence using the
-same an accuracy of 90% is obtained from the prediction.
+forest classifier was chosen which is much better than a single decision tree . 
+
+<h3> An accuracy of 90% is obtained from the prediction </h3>
